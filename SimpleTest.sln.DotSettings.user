@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bdb8b555_002D657d_002D4c6a_002Dbdf9_002Dcd86109112a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;DDFBCD05-43AA-4B52-81E1-088E52BB2AF1/f:IntegrationTest1.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;MSTest::AF10CFDD-797F-4D46-B677-F43F80BA1B83::net6.0::UnitTest.WordSortUnitTests.WordSort&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::AF10CFDD-797F-4D46-B677-F43F80BA1B83::net6.0::UnitTest.WordSortUnitTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;MSTest::AF10CFDD-797F-4D46-B677-F43F80BA1B83::net6.0::UnitTest.CharacterRemovalUnitTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7983bce_002D89e8_002D4edb_002D9052_002D8a2846e3f6fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CaseSort" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::DDFBCD05-43AA-4B52-81E1-088E52BB2AF1::net6.0::IntegrationTest.UnitTest1.CaseSort&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
